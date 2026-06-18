@@ -1,0 +1,27 @@
+# Virtual environments
+venv12/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Database
+*.db
+
+# Generated images
+posters/*.png
+static/uploads/*

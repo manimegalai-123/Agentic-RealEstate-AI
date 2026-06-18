@@ -1,0 +1,27 @@
+# Python
+venv/
+venv12/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+
+# Build files
+dist/
+build/
+
+# Images generated
+posters/*.png
+static/uploads/*
