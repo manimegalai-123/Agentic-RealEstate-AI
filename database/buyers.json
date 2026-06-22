@@ -1,0 +1,19 @@
+[
+    {
+        "buyer_name": "buyer1",
+        "phone": "9876543210",
+        "email": "buyer1@gmail.com",
+        "location": "coimbatore",
+        "budget": 500000,
+        "bedrooms": 2
+    },
+
+    {
+        "buyer_name": "buyer2",
+        "phone": "9098999890",
+        "email": "buyer2@gmail.com",
+        "location": "ranipet",
+        "budget": 30000,
+        "bedrooms": 1
+    }
+]
